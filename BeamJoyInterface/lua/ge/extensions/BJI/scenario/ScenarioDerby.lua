@@ -11,7 +11,7 @@ local M = {
     },
 
     -- server data
-    destroyedTimeout = 5,
+    destroyedTimeout = 30,
     preparationTimeout = nil,
     startTime = nil,
     participants = {},
